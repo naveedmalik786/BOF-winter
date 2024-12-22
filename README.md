@@ -1,2 +1,2 @@
 # BOF-winter
-I design this website using HTML, CSS And JavaScript. from Figma to Static  Website
+I design this website using HTML, and CSS. from Figma to Static  Website
